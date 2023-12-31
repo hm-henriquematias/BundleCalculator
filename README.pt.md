@@ -1,5 +1,7 @@
 # Bundle Calculator (Calculadora de pacotes)
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/Readme.md)
+
 ### O que é um pacote?
 Antes de começar a descrever a aplicação, é necessário definir o que é um bundle ou pacote.
 Um pacote é um item composto por um ou mais itens. Por exemplo, uma bicicleta é composta de
