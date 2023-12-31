@@ -12,7 +12,7 @@ Esta aplicação tem como objectivo calcular o número de pacotes possíveis a p
 disponível
 
 ### Dados
-Data.json é um arquivo que informa as regras para pacotes, itens e suas respetivas quantidades
+Data.json é um ficheiro que informa as regras para pacotes, itens e suas respetivas quantidades
 
 ### Divisão da solução
 A solução está dividida em dois projectos, um projecto principal, que é uma aplicação de console,
