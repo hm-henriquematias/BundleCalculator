@@ -1,0 +1,52 @@
+{
+  "BundleRules": [
+    {
+      "BundleName": "Bike",
+      "RequiredItems": [
+        {
+          "Name": "Seat",
+          "Amount": 1
+        },
+        {
+          "Name": "Pedal",
+          "Amount": 2
+        },
+        {
+          "Name": "Wheel",
+          "Amount": 2
+        }
+      ]
+    },
+    {
+      "BundleName": "Wheel",
+      "RequiredItems": [
+        {
+          "Name": "Frame",
+          "Amount": 1
+        },
+        {
+          "Name": "Tube",
+          "Amount": 1
+        }
+      ]
+    }
+  ],
+  "Items": [
+    {
+      "Name": "Seat",
+      "Amount": 50
+    },
+    {
+      "Name": "Pedal",
+      "Amount": 60
+    },
+    {
+      "Name": "Frame",
+      "Amount": 60
+    },
+    {
+      "Name": "Tube",
+      "Amount": 35
+    }
+  ]
+}
