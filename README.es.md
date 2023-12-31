@@ -1,5 +1,8 @@
 # Calculadora de paquetes (Calculadora de pacotes)
 
+
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/Readme.md)
+
 ### ¿O qué es un pacote?
 Antes de comenzar a descubrir una aplicación, es necesario definir cuál es un paquete o paquete.
 Un pacote es un artículo composto por um ou mais itens. Por ejemplo, una bicicleta es composta de
