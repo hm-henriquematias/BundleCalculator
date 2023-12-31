@@ -5,6 +5,7 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/README.pt-br.md)
 [![pt-pt](https://img.shields.io/badge/lang-pt-red.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/README.pt.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/README.es.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/README.fr.md)
 
 
 ### What is a bundle?
