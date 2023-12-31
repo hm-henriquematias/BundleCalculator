@@ -1,5 +1,12 @@
 # Bundle calculator
 
+
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/Readme.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/README.pt-br.md)
+[![pt-pt](https://img.shields.io/badge/lang-pt-red.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/README.pt.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/README.es.md)
+
+
 ### What is a bundle?
 Before starting to describe the application, it is necessary to define what a bundle is. 
 A bundle is an item made up of one or more items. For example, a bicycle is made up of 
