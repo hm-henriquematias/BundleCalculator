@@ -8,6 +8,9 @@
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/hm-henriquematias/BundleCalculator/blob/main/README.fr.md)
 
 
+` You can check tests in Github actions tab :) `
+
+
 ### What is a bundle?
 Before starting to describe the application, it is necessary to define what a bundle is. 
 A bundle is an item made up of one or more items. For example, a bicycle is made up of 
